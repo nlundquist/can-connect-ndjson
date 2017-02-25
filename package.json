@@ -52,7 +52,7 @@
   "dependencies": {
     "can-define": "^1.0.16",
     "can-util": "^3.3.0",
-    "cssify": "^0.6.0"
+    "cssify": "^1.0.3"
   },
   "devDependencies": {
     "can-stache": "^3.0.19",
